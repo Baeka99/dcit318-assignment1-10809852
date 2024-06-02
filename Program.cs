@@ -1,34 +1,28 @@
 ﻿using System;
 
-namespace GradeCalculator
+namespace TicketPriceCalculator
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a numerical grade between 0 and 100: ");
+            Console.Write("Enter your age: ");
             string input = Console.ReadLine();
 
-            if (int.TryParse(input, out int grade))
+            if (int.TryParse(input, out int age))
             {
-                string letterGrade;
+                int ticketPrice;
 
-                if (grade >= 90)
-                    letterGrade = "A";
-                else if (grade >= 80)
-                    letterGrade = "B";
-                else if (grade >= 70)
-                    letterGrade = "C";
-                else if (grade >= 60)
-                    letterGrade = "D";
+                if (age <= 12 || age >= 65)
+                    ticketPrice = 7;
                 else
-                    letterGrade = "F";
+                    ticketPrice = 10;
 
-                Console.WriteLine($"The corresponding letter grade is: {letterGrade}");
+                Console.WriteLine($"The ticket price is: GHC{ticketPrice}");
             }
             else
             {
-                Console.WriteLine("Invalid input. Please enter a number between 0 and 100.");
+                Console.WriteLine("Invalid input. Please enter a valid age.");
             }
         }
     }
