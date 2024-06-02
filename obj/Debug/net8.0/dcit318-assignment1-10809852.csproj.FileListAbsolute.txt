@@ -1,0 +1,14 @@
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/bin/Debug/net8.0/dcit318-assignment1-10809852
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/bin/Debug/net8.0/dcit318-assignment1-10809852.deps.json
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/bin/Debug/net8.0/dcit318-assignment1-10809852.runtimeconfig.json
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/bin/Debug/net8.0/dcit318-assignment1-10809852.dll
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/bin/Debug/net8.0/dcit318-assignment1-10809852.pdb
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.AssemblyInfoInputs.cache
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.AssemblyInfo.cs
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.csproj.CoreCompileInputs.cache
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.dll
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/refint/dcit318-assignment1-10809852.dll
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.pdb
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/dcit318-assignment1-10809852.genruntimeconfig.cache
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/obj/Debug/net8.0/ref/dcit318-assignment1-10809852.dll
