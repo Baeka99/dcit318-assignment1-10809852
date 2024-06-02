@@ -1,0 +1,15 @@
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.deps.json
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.runtimeconfig.json
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.dll
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/bin/Debug/net8.0/TicketPriceCalculator.pdb
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.AssemblyInfo.cs
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.sourcelink.json
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.dll
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/refint/TicketPriceCalculator.dll
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.pdb
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/TicketPriceCalculator.genruntimeconfig.cache
+/Users/mwiningbongbaeka/Desktop/dcit318-assignment1-10809852/TicketPriceCalculator/obj/Debug/net8.0/ref/TicketPriceCalculator.dll
